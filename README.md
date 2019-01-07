@@ -97,6 +97,19 @@
     - stanford Core NLP
     - Adobe illustrator
 
+## 論文、学会発表
+### 論文
+- __Takuya KUBO__, Hiroshi NAGAOKA, "A Fundamental Inequality for Lower-Bounding the Error Probability for Classical and Classical-Quantum Multiple Access Channels and Its Applications," _IEICE Transactions on Fundamentals of Electronics, Communications and Computer Sciences,_ E98.A, no.12, pp. 2376 - 2383, 2015, [J-STAGE](https://www.jstage.jst.go.jp/article/transfun/E98.A/12/E98.A_2376/_article/-char/ja), [arXiv](https://arxiv.org/abs/1503.06914)
+- __久保卓也__, 古典および量子情報理論における状態識別問題の誤り確率の下界に関する研究, 電気通信大学学位論文, 2015, [電気通信大学学術機関リポジトリ](http://id.nii.ac.jp/1438/00000812/)
+### 学会発表(査読あり)
+- __Takuya Kubo__, Hiroshi Nagaoka, "Lower bounds on the error probability in classical and quantum state discrimination," 2012 International Symposium on Information Theory and its Applications (ISITA2012) [IEEE Xplore](https://ieeexplore.ieee.org/document/6400940)
+### 学会発表(査読なし)
+- __久保卓也__, 長岡浩司, "古典量子多重アクセス通信路における弱逆性に関する考察," 第38回情報理論とその応用シンポジウム(SITA2015) 4.3.2 [アドバンスドプログラム](http://www.ieice.org/ess/sita/SITA2015/program/index.html)
+- __久保卓也__, 長岡浩司, "古典および量子多重アクセス通信路における誤り確率の下界に関する考察," 第37回情報理論とその応用シンポジウム(SITA2014) 8.2.2 [アドバンスプログラム](http://www.ieice.org/ess/sita/SITA2014/program/index.html)
+- __久保卓也__, 長岡浩司, "一般化Poor-Verdú不等式に関するいくつかの考察," 第35回情報理論とその応用シンポジウム(SITA2012) 2.2.1 [アドバンスプログラム](http://www.ieice.org/ess/sita/SITA2012/program/index.html)
+- __久保卓也__, 長岡浩司, "古典・量子状態推定における誤り確率の下界について(ポスター)," 第25回量子情報技術研究会(QIT25), 2011 [IEICE 講演論文詳細](https://www.ieice.org/ken/paper/2011112180lQ/)
+- __久保卓也__,　町田真一,　野口裕,　中山泰生,　石井久夫, "有機半導体の電子構造評価における紫外光電子分光および光電子収量分光の比較," 第29回表面科学学術講演会, 2009　[表面科学学術講演会要旨集](https://www.jstage.jst.go.jp/article/sssj2008/29/0/29_0_48/_article/-char/ja)
+
 ## 強み
 - 知識の広さとそれを利用した理解力
 - 直接知識を伝達する力
