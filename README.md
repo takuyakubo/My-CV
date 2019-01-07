@@ -26,7 +26,7 @@
     - Data analysis tools (pandas, scikit-learn, jupyter etc)
     - nose, pytest
   - C++
-    - old-fashioned C++ (2011 -- 2015, 数値計算)
+    - old-fashioned C++ (2011 - 2015, 数値計算)
       - Eigen, OpenMPI
     - modern C++ (2018/08 - 現在, 勉強中)
       - googleTest, pybind11
