@@ -104,7 +104,7 @@
 ### 学会発表(査読あり)
 - __Takuya Kubo__, Hiroshi Nagaoka, "Lower bounds on the error probability in classical and quantum state discrimination," 2012 International Symposium on Information Theory and its Applications (ISITA2012) [IEEE Xplore](https://ieeexplore.ieee.org/document/6400940)
 ### 学会発表(査読なし)
-- __久保卓也__, 長岡浩司, "古典量子多重アクセス通信路における弱逆性に関する考察," 第38回情報理論とその応用シンポジウム(SITA2015) 4.3.2 [アドバンスドプログラム](http://www.ieice.org/ess/sita/SITA2015/program/index.html)
+- __久保卓也__, 長岡浩司, "古典量子多重アクセス通信路における弱逆性に関する考察," 第38回情報理論とその応用シンポジウム(SITA2015) 4.3.2 [アドバンスプログラム](http://www.ieice.org/ess/sita/SITA2015/program/index.html)
 - __久保卓也__, 長岡浩司, "古典および量子多重アクセス通信路における誤り確率の下界に関する考察," 第37回情報理論とその応用シンポジウム(SITA2014) 8.2.2 [アドバンスプログラム](http://www.ieice.org/ess/sita/SITA2014/program/index.html)
 - __久保卓也__, 長岡浩司, "一般化Poor-Verdú不等式に関するいくつかの考察," 第35回情報理論とその応用シンポジウム(SITA2012) 2.2.1 [アドバンスプログラム](http://www.ieice.org/ess/sita/SITA2012/program/index.html)
 - __久保卓也__, 長岡浩司, "古典・量子状態推定における誤り確率の下界について(ポスター)," 第25回量子情報技術研究会(QIT25), 2011 [IEICE 講演論文詳細](https://www.ieice.org/ken/paper/2011112180lQ/)
