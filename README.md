@@ -1,6 +1,7 @@
 # 職務経歴書
-2019/01 現在
+2019/01/07 現在
 
+[PDF](https://gitprint.com/takuyakubo/My-CV)
 ## 基本情報
 
 |key|value|
